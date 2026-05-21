@@ -1,0 +1,1 @@
+export {default as InputsGroup} from '../molecules/InputsGroup'
